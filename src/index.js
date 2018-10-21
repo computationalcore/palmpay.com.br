@@ -1,7 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import { BrowserRouter } from 'react-router-dom';
-import { IntlProvider } from "react-intl";
+import { addLocaleData, IntlProvider } from "react-intl";
+import pt from 'react-intl/locale-data/pt';
 
 // Main app component
 import App from "./components/App";
@@ -14,14 +15,16 @@ import "./assets/css/palmpay.css";
 import "./index.css";
 
 import messages_en from "./translations/en.json";
-import messages_es from "./translations/es.json";
+import messages_pt from "./translations/pt.json";
+
+addLocaleData([...pt]);
 
 const messages = {
     'en': messages_en,
-    'es': messages_es
+    'pt': messages_pt
 };
 
-const language = 'en';
+const language = 'pt';
 
 // Add IntlProvider to make the internationalization functions visible in all
 // our components.
