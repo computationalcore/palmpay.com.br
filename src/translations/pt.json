@@ -4,30 +4,30 @@
   "header.testimonies": "Testemunhos",
   "header.downloads": "Downloads",
 
-  "home.about.about1_title": "Se integra perfeitamente com Sistemas já existentes",
-  "home.about.about1_description1": "PalmPay for construído desde o início para ser à prova de futuro. Comerciantes não precisam mais ficar experts nas tecnologias mais recentes. Blockchains e moedas vêm e vão, mas o PalmPay os suporta e os oferece a seus clientes com base em sua popularidade, automaticamente.",
-  "home.about.about1_description2": "Custo zero. Taxa de instalação zero. Taxa de transação zero. Mensalidade zero. Seus clientes pagam a pequena taxa de transação de 0,5% para pagar com sua moeda digital favorita.",
-  "home.about.about1_description3": "Recibos eletrônicos, e recursos avançados de exportação permitem relatórios simplificados de contabilidade e impostos. Seus clientes também ecebem um recibo eletrônico diretamente no smartphone após o pagamento.",
-  "home.about.about1_description4": "Mais rápido e seguro que dinheiro. As transações do cliente levam 3 segundos ou menos. Vamos ver se clientes que pagam com dinheiro ou cartão conseguirem ser tão rápidos assim!",
+  "home.about.about1_title": "Se integra perfeitamente com sistemas já existentes",
+  "home.about.about1_description1": "PalmPay for construído desde o início para ser à prova de futuro. Negociantes não precisam mais ser experts nas tecnologias mais recentes. Blockchains e criptomoedas vêm e vão, mas o PalmPay os suporta e os oferece a seus clientes com base em sua popularidade, automaticamente.",
+  "home.about.about1_description2": "Custo zero. Taxa zero de instalação. Taxa zero de transação. Zero de mensalidade. Seus clientes pagam a pequena taxa de transação de 0,5% para pagar com sua moeda digital favorita.",
+  "home.about.about1_description3": "Recibos eletrônicos, e recursos avançados de exportação permitem relatórios simplificados de contabilidade e impostos. Seus clientes também recebem um recibo eletrônico diretamente no smartphone após o pagamento.",
+  "home.about.about1_description4": "Mais rápido e seguro que dinheiro. As transações do cliente demoram 3 segundos ou menos. Vamos ver se clientes que pagam com dinheiro ou cartão conseguem ser tão rápidos assim!",
 
   "home.about.about2_title": "Pagamentos móveis estão mais rápidos do que nunca. Processe os pedidos dos seus clientes instantaneamente",
   "home.about.about2_description1": "Não importa se você está entregando pacotes que exigem pagamento, ajudando centenas de clientes a acelerar a fila de pagamento ou apenas pagando a conta em um restaurante com grande movimento, o PalmPay cuida de todos eles instantaneamente.",
-  "home.about.about2_description2": "Sem mais despesas com cartão de crédito. Sem mais assaltos a dinheiro. Máxima segurança e risco zero sem chance de roubo de identidade ou fraude de cartão. PalmPay usa o blockchain do Bitshares para garantir instantaneamente qualquer valor de transação e faz isso há mais de 3 anos, ultrapassando recentemente 3300 transações por segundo.",
-  "home.about.about2_description3": "Hackear um blockchain é impossível, já que ele usa a tecnologia Distributed Ledger, garantindo instantaneamente que cada transação seja verificada por centenas de computadores em todo o mundo.",
+  "home.about.about2_description2": "Sem mais despesas com cartão de crédito. Sem mais risco de assalto a dinheiro físico. Máxima segurança e risco zero sem chance de roubo de identidade ou fraude de cartão. PalmPay usa a blockchain do Bitshares para garantir instantaneamente qualquer valor de transação que existe a mais de 3 anos, ultrapassando recentemente 3300 transações por segundo.",
+  "home.about.about2_description3": "Hackear uma blockchain é impossível, já que ele usa a tecnologia Distributed Ledger, garantindo instantaneamente que cada transação seja verificada por centenas de computadores em todo o mundo.",
 
   "home.about.about3_title": "Volatilidade de criptomoedas é coisa do passado",
-  "home.about.about3_description1": "PalmPay converte instantaneamente a criptomoeda em sua moeda local, estável, em formato digital, como bitEUR, bitUSD, bitJPY, bitKRW, bitRUB ou bitGold e bitSilver.",
-  "home.about.about3_description2": "Esses Smartcoins estão intimamente ligados 1:1 ao ativo subjacente para que você nunca precise se preocupar em pagar suas contas com criptomoeda.",
-  "home.about.about3_description3": "Por exemplo, o comerciante canadense que acabou de receber uma Dogecoin volátil pode recebê-lo como bitCAD estável em preço. Uma moeda é instantaneamente transformada em outra, da escolha dos comerciantes. O PalmPay lida com tudo isso em segundo plano, permitindo que o cliente pague com qualquer criptomoeda que preferir.",
-  "home.about.about3_description4": "Esta estabilidade é a base da Iniciativa Blockchain My City (<a href='docs/Blockchain_My_City_BMC.pdf'> BMC </a>). O PalmPay inclui a capacidade de pagar automaticamente todos os Embaixadores e o Governo inscrito a partir dos 0,5% que são cobrados dos clientes.",
+  "home.about.about3_description1": "PalmPay converte instantaneamente uma criptomoeda em sua moeda local, estável, em formato digital, como bitEUR, bitUSD, bitJPY, bitKRW, bitRUB ou bitGold e bitSilver.",
+  "home.about.about3_description2": "Esses Smartcoins estão atrelados 1:1 ao ativo subjacente para que você nunca precise se preocupar em pagar suas contas com criptomoeda.",
+  "home.about.about3_description3": "Por exemplo, um comerciante canadense que acabou de receber uma Dogecoin volátil pode receber esse valor em bitCAD de preço estável estável. Uma moeda é instantaneamente transformada em outra, da escolha dos comerciantes. O PalmPay lida com tudo isso em segundo plano, permitindo que o cliente pague com qualquer criptomoeda que preferir.",
+  "home.about.about3_description4": "Esta estabilidade é a base da Iniciativa Blockchain My City (<a target ='_blank' rel = 'noopener noreferrer' href='docs/Blockchain_My_City_BMC.pdf'> BMC </a>). O PalmPay inclui a capacidade de pagar automaticamente todos os Embaixadores e o Governo inscrito a partir dos 0,5% que são cobrados dos clientes.",
 
   "home.about.about4_title": "Suporte técnico ilimitado e gratuito dos Embaixadores PalmPay",
-  "home.about.about4_description1": "Grátis? Sim, totalmente grátis. Os Embaixadores PalmPay são pagos automaticamente, a cada 3 segundos, por meio da taxa de transação do cliente mencionada acima. Portanto, se você tiver alguma dúvida (em qualquer um dos 44 idiomas suportados), entre em contato diretamente com o Embaixador PalmPay local ou pergunte diretamente a algum no Telegram através do <a 'target = _blank' rel = 'noopener noreferrer' href = 'http: //t.me/Agorise '> http://t.me/Agorise</a>",
+  "home.about.about4_description1": "Grátis? Sim, totalmente grátis. Os Embaixadores PalmPay são pagos automaticamente, a cada 3 segundos, por meio da taxa de transação do cliente mencionada acima. Portanto, se você tiver alguma dúvida (em qualquer um dos 44 idiomas suportados), entre em contato diretamente com o Embaixador PalmPay local ou pergunte diretamente a algum no Telegram em <a target ='_blank' rel = 'noopener noreferrer' href='http://t.me/Agorise'>http://t.me/Agorise</a>.",
   "home.about.about4_description2": "Desde que sua empresa tenha Wi-Fi e um tablet ou smartphone Android (para baixar gratuitamente o PalmPay), isso é tudo de que você precisa. Nenhum outro hardware é necessário. Se desejar, não se esqueça de perguntar ao seu Embaixador PalmPay por adesivos, adesivos de janela gratuitos, folhetos e materiais promocionais gratuitos.",
 
   "home.about.about5_title": "Acesse suas contas a qualquer hora, de qualquer lugar do mundo",
-  "home.about.about5_description1": "Monitore as transações de um ou mais das suas empresas em tempo real. Win, Mac ou Linux.",
-  "home.about.about5_description2": "O exchange descentralizado do Bitshares (DEX) fornece a plataforma que o PalmPay utiliza. Usando a DEX, você pode mover dinheiro livremente entre contas, obter um empréstimo, ficar público, pagar contas, negociar e até mesmo investir em outros ativos.",
+  "home.about.about5_description1": "Monitore as transações de uma ou mais das suas empresas em tempo real. Win, Mac ou Linux.",
+  "home.about.about5_description2": "O exchange descentralizado do Bitshares (DEX) fornece a plataforma que o PalmPay utiliza. Usando a DEX, você pode mover dinheiro livremente entre contas, obter um empréstimo, abrir capital, pagar contas, negociar e até mesmo investir em outros ativos.",
   "home.about.about5_description3": "Eles são o banco que nunca fecha, nunca precisam de um resgate e nunca podem roubar seu dinheiro. Bitshares não é uma empresa. É uma rede distribuída de computadores, todos executando o mesmo software, proporcionando o máximo de tempo de atividade. Então, pare de confiar nos humanos com seu dinheiro e torne-se seu próprio banco!",
 
   "home.main.banner_title": "Aceite qualquer moeda digital a custo zero",
@@ -39,15 +39,15 @@
   "home.services.cafe_bars": "Cafe/Bares",
   "home.services.restaurants": "Restaurantes",
   "home.services.gas_stations": "Postos de gasolina",
-  "home.services.bill_pay": "Contadores",
+  "home.services.bill_pay": "Caixas",
   "home.services.grocery": "Mercearias",
   "home.services.delivery_drivers": "Entregadores",
   "home.services.phone_orders": "Pedidos por telefone",
 
-  "footer.title": "MAIS RÁPIDO E MAIS SEGURO DO QUE O DINHEIRO",
-  "footer.description": "Este site não pretende ser um conselheiro legal ou financeiro, não é garantia de nada e não coletamos nenhuma informação sobre você. PalmPay é um produto de Ponto de Venda da Agorise, Ltd. Para detalhes técnicos, converse a qualquer momento 24/7 com a comunidade Agorise no Telegram em: : <a target='_blank' rel='noopener noreferrer' href='http://t.me/Agorise'> http://t.me/Agorise </a>",
+  "footer.title": "MAIS RÁPIDO E MAIS SEGURO DO QUE DINHEIRO",
+  "footer.description": "Este site não tem intuito de fornecer conselho legal ou financeiro, não é garantia de nada e não coletamos nenhuma informação sobre você. PalmPay é um produto de Ponto de Venda da Agorise, Ltd. Para detalhes técnicos, converse a qualquer momento 24/7 com a comunidade Agorise no Telegram em: : <a target='_blank' rel='noopener noreferrer' href='http://t.me/Agorise'> http://t.me/Agorise </a>",
 
-  "marketing.button.presentations": "Presentations",
+  "marketing.button.presentations": "Apresentações",
   "marketing.accordion.presentations1": "<a target='_blank' rel='noopener noreferrer' href='https://docs.google.com/presentation/d/1oYQxlKIzNHb-F07PJ04xsK0jIJcduIzc-4HMpbqAw0o/edit?usp=sharing' class='list-group-item list-group-item-action flex-column align-items-start'> <div class='d-flex w-100 justify-content-between'> <h5 class='mb-1'> Slides (ES) - Google Slides (for Meetups and Workshops etc) in Spanish </h5> </div> <p class='mb-1'> https://docs.google.com/presentation/d/1oYQxlKIzNHb-F07PJ04xsK0jIJcduIzc-4HMpbqAw0o/edit?usp=sharing </p> </a>",
   "marketing.accordion.presentations2": "<a target='_blank' rel='noopener noreferrer' href='https://docs.google.com/presentation/d/1HgYeEQ0NUeHesnX1Xy4OUi9Nng4P9O4-yH_7fWnwF6Q/edit?usp=sharing' class='list-group-item list-group-item-action flex-column align-items-start'> <div class='d-flex w-100 justify-content-between'> <h5 class='mb-1'> Slides (EN) - Here is a nice powerpoint (Google Slides actually) that you can copy and edit to your liking for PalmPay Meetups, Workshops, etc. </h5> </div> <p class='mb-1'> https://docs.google.com/presentation/d/1HgYeEQ0NUeHesnX1Xy4OUi9Nng4P9O4-yH_7fWnwF6Q/edit?usp=sharing </p> </a>",
   "marketing.accordion.presentations3": "<a target='_blank' rel='noopener noreferrer' href='https://docs.google.com/spreadsheets/d/1um5BJiI4infLVBFzsNFG4aV_hGuVAluWztI0UIT0oL4/edit?usp=sharing' class='list-group-item list-group-item-action flex-column align-items-start'> <div class='d-flex w-100 justify-content-between'> <h5 class='mb-1'> FAQ (EN, ES, GR, and RU) - These are the most common questions that people ask about PalmPay </h5> </div> <p class='mb-1'> https://docs.google.com/spreadsheets/d/1um5BJiI4infLVBFzsNFG4aV_hGuVAluWztI0UIT0oL4/edit?usp=sharing </p> </a>",
@@ -65,12 +65,12 @@
   "marketing.accordion.flyers10": "<a target='_blank' rel='noopener noreferrer' href='https://docs.google.com/drawings/d/1_aRidERnsw7080Hqe9CjvtvmuZv3MQWTX30G9exMEa0/edit?usp=sharing' class='list-group-item list-group-item-action flex-column align-items-start'> <div class='d-flex w-100 justify-content-between'> <h5 class='mb-1'> Tri-Fold Flyers (GR, front) - These Greek flyers explain Bitshares and PalmPay, great for events and meetups, etc. </h5> </div> <p class='mb-1'> https://docs.google.com/drawings/d/1_aRidERnsw7080Hqe9CjvtvmuZv3MQWTX30G9exMEa0/edit?usp=sharing </p> </a>",
 
 
-  "marketing.button.business_cards": "Business Cards",
+  "marketing.button.business_cards": "Cartões de Visita",
   "marketing.accordion.business_cards1": "<a target='_blank' rel='noopener noreferrer' href='https://docs.google.com/drawings/d/1zRdI_8tPXOoHi7SuM4RCkUezGQVzfPyMp3hUweYEL1s/edit?usp=sharing' class='list-group-item list-group-item-action flex-column align-items-start'> <div class='d-flex w-100 justify-content-between'> <h5 class='mb-1'> Front - Please do not edit the front of the business cards </h5> </div> <p class='mb-1'> https://docs.google.com/drawings/d/1zRdI_8tPXOoHi7SuM4RCkUezGQVzfPyMp3hUweYEL1s/edit?usp=sharing </p> </a>",
   "marketing.accordion.business_cards2": "<a target='_blank' rel='noopener noreferrer' href='https://docs.google.com/drawings/d/1dwr31i0Wgh2j9737JyH4OTjix4w31J3mdBA9iCNZ6zs/edit?usp=sharing' class='list-group-item list-group-item-action flex-column align-items-start'> <div class='d-flex w-100 justify-content-between'> <h5 class='mb-1'> Back - Feel free to edit the back of these cards all you like </h5> </div> <p class='mb-1'> https://docs.google.com/drawings/d/1dwr31i0Wgh2j9737JyH4OTjix4w31J3mdBA9iCNZ6zs/edit?usp=sharing </p> </a>",
 
 
-  "marketing.button.promotional_displays": "Promotional Displays",
+  "marketing.button.promotional_displays": "Displays promocionais",
   "marketing.accordion.promotional_displays1": "<a target='_blank' rel='noopener noreferrer' href='https://keybase.io/team/Agorise' class='list-group-item list-group-item-action flex-column align-items-start'> <div class='d-flex w-100 justify-content-between'> <h5 class='mb-1'> Logos, Advertising images, Stickers and Merchandise, etc. (in the /PalmPay folder) </h5> </div> <p class='mb-1'>https://keybase.io/team/Agorise</p> </a>",
 
   "ambassadors.title": "Ambassadors",
